@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application_df</string>
+    <string name="ini_halaman_pindah">ini_halaman_pindah</string>
+    <string name="choose">choose</string>
+    <string name="_200">_200</string>
+    <string name="_150">_150</string>
+    <string name="_100">_100</string>
+    <string name="_50">_50</string>
+    <string name="choose_number">choose_number</string>
+    <string name="data_received">data_received</string>
+    <string name="object_received">object_received</string>
+    <string name="hobi_streaming_movie">hobi_streaming_movie</string>
+    <string name="ttl_pekanbaru_08_juli_2001">ttl_Pekanbaru_08_juli_2001</string>
+    <string name="alamat_pekanbaru">alamat_Pekanbaru</string>
+    <string name="prodi_teknologi_informasi">prodi_teknologi_informasi</string>
+    <string name="nim_2010031805003">nim_2010031805003</string>
+    <string name="nama_defriano">nama_Defriano</string>
+    <string name="move_with_result">move with result</string>
+    <string name="biodata">biodata</string>
+    <string name="result_from_activity">result_from_activity</string>
+    <string name="button_pindah">button pindah</string>
+    <string name="move_data">move data</string>
+    <string name="move_with_object">move with object</string>
+    <string name="dial_number1">dial number1</string>
+</resources>
